@@ -24,3 +24,6 @@ The purpose of this dashboard is to help businesses and stakeholders:
     - Top Products by Profit to identify best-performing items
     - Profit by Discount Band to understand impact of discounts
     - Interactive Filters (Year-wise) for dynamic data exploration
+
+5. ScreenShot
+   what Dashboard looks like - 
