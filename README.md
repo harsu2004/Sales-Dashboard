@@ -26,4 +26,6 @@ The purpose of this dashboard is to help businesses and stakeholders:
     - Interactive Filters (Year-wise) for dynamic data exploration
 
 5. ScreenShot
-   what Dashboard looks like - 
+   what Dashboard looks like - https://github.com/harsu2004/Sales-Dashboard/blob/main/Dashboard%20SS.png
+   
+   
